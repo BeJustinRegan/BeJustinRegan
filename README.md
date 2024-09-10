@@ -9,7 +9,7 @@ after that i converter the video from mp4 to gif
 ur welcome ;)
 -->
 
-<a href="https://github.com/BeJustinRegan">![BeJustinRegan Profile GIF](./assets/profile.mp4)</a>
+<a href="https://github.com/BeJustinRegan">![BeJustinRegan Profile GIF](./assets/profile.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
